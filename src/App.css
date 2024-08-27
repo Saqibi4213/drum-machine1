@@ -15,7 +15,7 @@ body {
   text-align: center;
   display: flex;
   justify-content: center;
-  margin-top: 10vh;
+  margin-top: 12vh;
 }
 
 #display {
@@ -24,7 +24,7 @@ body {
   height: 30px;
   border-radius: 30px;
   padding: 20px 20px;
-  font-size: 27px;
+  font-size: 2.1rem;
   font-weight: 700;
   background-color: #0c0574;
 }
@@ -44,8 +44,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 27px;
-  font-weight: 700;
+  font-size: 2.1rem;
+  font-weight: 400;
 }
 
 @media (max-width: 460px) {
