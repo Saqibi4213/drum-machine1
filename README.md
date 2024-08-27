@@ -21,11 +21,10 @@ This is a drum machine application that allows users to play various drum sounds
 
 ## Demo 📸
 
-![Demo](./src/image/r1.png)
-![Demo](./src/image/r2.png)
-![FreeCodeCamp](./src/image/f1.png)
+![Demo](./src/assests/drum.png)
+![FreeCodeCamp](./src/assests/f2.png)
 <br>
- [Live-link](https://markdown-section--luminous-bublanina-3f1736.netlify.app/)
+ [Live-link](https://drum-machine--exquisite-dodol-1b7db5.netlify.app/)
 
 ## Features ⭐
 
@@ -46,7 +45,7 @@ All the required user stories and tests have been successfully completed and pas
 This project was built as part of the FreeCodeCamp curriculum. The project requirements and the provided Markdown previewer example were sourced from the FreeCodeCamp website.
 
 ## Author 👩‍💻
-- Website: [website.com]( )
+- Website: [website.com]( https://drum-machine--exquisite-dodol-1b7db5.netlify.app/)
 - LinkedIn: [Mehria saqibi](https://www.linkedin.com/in/mehria-saqibi-a386a41a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Email: [email](mosawermh@gmail.com)
 
